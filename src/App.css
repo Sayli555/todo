@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.red{
+  color: rgb(255, 0, 0);
+  /* background-color: black; */
+ 
+}
+.green{
+  
+  color: green;
+  /* background-color: #61dafb; */
+}
+
+input {
+  margin: .4rem;
+}
